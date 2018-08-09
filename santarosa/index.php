@@ -79,7 +79,7 @@
 	});	
 </script>	
              <div class="audio6_html5">            
-             	<audio id="lbg_audio6_html5_shoutcast_1" preload="metadata">              
+             	<audio id="lbg_audio6_html5_shoutcast_1" allow="autoplay" preload="metadata">              
                 No HTML5 audio playback capabilities for this browser. Use <a href="https://www.google.com/intl/en/chrome/browser/">Chrome Browser!</a>
                 </audio>
              </div>
