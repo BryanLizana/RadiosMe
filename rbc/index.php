@@ -2,7 +2,7 @@
 <script type="text/javascript" src="js/jquery-1.11.2.min.js"></script>
 <script type="text/javascript" src="js/jquery.jplayer.min.js"></script>
 <script type="text/javascript" src="js/PLAYJS.js"></script>
-
+<title>Radio RBC</title>
 </head><body><div class="cajaSUENA">
 
 <div class="jp-jplayer" id="jquery_jplayer_rcast" style="width: 0px; height: 0px;"><img id="jp_poster_0" style="width: 0px; height: 0px; display: none;"><audio id="jp_audio_0" preload="none" src="http://67.212.179.138:8730/;"></audio></div>
