@@ -105,7 +105,7 @@
                //url: "lastfm.php?stream=http%3A%2F%2F195.154.56.114%3A7008%2F&t=",
                cache: false,
                success: function(data){
-             console.log(data);
+            //  console.log(data);
    
    
    $('.artist-preload').hide();
